@@ -114,7 +114,5 @@ This project demonstrates the end-to-end deployment of a cloud-native monitoring
 
 ---
 
-
-## Author
-**Mirang Bhandari**  
-[LinkedIn](https://www.linkedin.com/in/mirangbhandari) • [GitHub](https://github.com/mirangbhandari)
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
