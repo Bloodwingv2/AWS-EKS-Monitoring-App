@@ -1,9 +1,13 @@
-# Cloud-Native Monitoring Application Deployment
+# AWS-EKS-Monitoring-App
 
 ## Overview
 This project demonstrates the end-to-end deployment of a cloud-native monitoring application on AWS EKS. It showcases expertise in Kubernetes, Docker, AWS IAM, ECR, and troubleshooting real-world deployment challenges. The application monitors system resources using Python and Flask, providing a visual representation of CPU and memory usage.
 
 ---
+![AWS Docker Image](assets/aws-docker-img.png)
+![AWS Node Group](assets/aws-node-group.png)
+![ECR Repository](assets/ecr-repo.png)
+![Monitoring Dashboard](assets/monitoring.png)
 
 ## Tech Stack
 - **Cloud Provider**: AWS (IAM, EKS, ECR)
