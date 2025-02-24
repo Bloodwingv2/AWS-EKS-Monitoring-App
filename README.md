@@ -4,10 +4,11 @@
 This project demonstrates the end-to-end deployment of a cloud-native monitoring application on AWS EKS. It showcases expertise in Kubernetes, Docker, AWS IAM, ECR, and troubleshooting real-world deployment challenges. The application monitors system resources using Python and Flask, providing a visual representation of CPU and memory usage.
 
 ---
+![Monitoring Dashboard](Screenshots/monitoring.png)
+![ECR Repository](Screenshots/ecrrepo.png)
 ![AWS Docker Image](Screenshots/awsdockerimg.png)
 ![AWS Node Group](Screenshots/awsnodegroup.png)
-![ECR Repository](Screenshots/ecrrepo.png)
-![Monitoring Dashboard](Screenshots/monitoring.png)
+
 
 ## Tech Stack
 - **Cloud Provider**: AWS (IAM, EKS, ECR)
